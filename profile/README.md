@@ -119,7 +119,7 @@ Network embedding · drug–target interaction prediction · pathway activity in
   <br/><br/>
   <b><a href="https://github.com/yutongLi1997">Ruby Li</a></b>
   <br/>
-  <sub><i>PhD · Bioinformatics</i></sub>
+  <sub><i>PhD Student</i></sub>
   <br/><br/>
   <sub>Optimisation-based modelling for explainable drug discovery, graph embedding, and drug–virus interaction prediction.</sub>
 </td>
@@ -133,7 +133,7 @@ Network embedding · drug–target interaction prediction · pathway activity in
   <br/><br/>
   <b><a href="https://github.com/phcavelar">Pedro Henrique da Costa Avelar</a></b>
   <br/>
-  <sub><i>PhD · Bioinformatics</i></sub>
+  <sub><i>PhD Student</i></sub>
   <br/><br/>
   <sub>Pathway activity inference, network embedding, and multi-omics integration. Author of <a href="https://github.com/KISysBio/pathwayae">pathwayae</a> and <a href="https://github.com/KISysBio/network-multi-omics">network-multi-omics</a>.</sub>
 </td>
@@ -144,9 +144,9 @@ Network embedding · drug–target interaction prediction · pathway activity in
   <br/><br/>
   <b><a href="https://www.modestlungociu.com">Modest Lungociu</a></b>
   <br/>
-  <sub><i>PhD · Bioinformatics</i></sub>
+  <sub><i>PhD Student</i></sub>
   <br/><br/>
-  <sub>Radiation transcriptomics and ML-driven biodosimetry — differential expression and predictive gene signatures across tissue and blood datasets.</sub>
+  <sub>Machine Learning for drug discovery and ML-driven methods for biodosimetry </sub>
 </td>
 <td align="center" width="33%">
   <a href="https://github.com/xinyue1chen">
@@ -155,7 +155,7 @@ Network embedding · drug–target interaction prediction · pathway activity in
   <br/><br/>
   <b><a href="https://github.com/xinyue1chen">Xinyue Chen</a></b>
   <br/>
-  <sub><i>Researcher</i></sub>
+  <sub><i>PhD Student</i></sub>
   <br/><br/>
   <sub>Computational methods for biological data analysis within the Systems Biology group.</sub>
 </td>
@@ -169,7 +169,7 @@ Network embedding · drug–target interaction prediction · pathway activity in
   <br/><br/>
   <b><a href="https://github.com/lilichennn">Lili Chen</a></b>
   <br/>
-  <sub><i>Researcher</i></sub>
+  <sub><i>PhD Student</i></sub>
   <br/><br/>
   <sub>Machine learning and bioinformatics research in the Systems Biology group.</sub>
 </td>
@@ -180,7 +180,7 @@ Network embedding · drug–target interaction prediction · pathway activity in
   <br/><br/>
   <b><a href="https://github.com/sabazaib19">Sabaoon Zeb</a></b>
   <br/>
-  <sub><i>Researcher</i></sub>
+  <sub><i>PhD Student</i></sub>
   <br/><br/>
   <sub>Computational biology and data-driven methods for systems-level analysis.</sub>
 </td>
@@ -191,14 +191,13 @@ Network embedding · drug–target interaction prediction · pathway activity in
   <br/><br/>
   <b><a href="https://github.com/lws2022">lws2022</a></b>
   <br/>
-  <sub><i>Researcher</i></sub>
+  <sub><i>PhD Student</i></sub>
   <br/><br/>
   <sub>Member of the Systems Biology group at King's College London.</sub>
 </td>
 </tr>
 </table>
 
-> **Note:** Some member bios are placeholders — feel free to open a PR with updated titles, links, and descriptions.
 
 ---
 
