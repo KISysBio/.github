@@ -223,17 +223,18 @@ Recent research from the group (auto-updated monthly from [Dr Sophia Tsoka's Goo
 
 | Year | Publication | Venue |
 | :--: | :-- | :-- |
-| 2026 | [Mapping Molecular Transitions in Barrett’s-Associated Oesophageal Adenocarcinoma via Multi-Omics Integration and Pathway Activity Modelling](https://doi.org/10.3390/cancers18132080) | Cancers |
-| 2026 | [FP11 Circulating immunoregulatory B- and T-cell profiles in patients with melanoma modulated with checkpoint inhibitor immunotherapy](https://doi.org/10.1093/bjd/ljag151.034) | British Journal of Dermatology |
-| 2026 | [An antibody-drug conjugate designed through clone and isotype selection restricts the growth of CSPG4-expressing triple-negative breast cancer](https://doi.org/10.1038/s41698-026-01341-0) | npj Precision Oncology |
-| 2026 | [B cells and humoral immunity in melanoma: regulatory and autoimmune-like features and implications for immunotherapy](https://doi.org/10.1080/2162402x.2026.2638620) | OncoImmunology |
-| 2026 | [An Antibody-Drug Conjugate Designed Through Clone and Isotype Selection Restricts the Growth of CSPG4-Expressing Triple-Negative Breast Cancer](https://openalex.org/W7132210499) | Research Portal (King's College London) |
-| 2026 | [Immunophenotyping TCF1-expressing TILs: spatial profiling and prognostic value in operable non-small cell lung cancer](https://doi.org/10.3389/fimmu.2026.1731337) | Frontiers in Immunology |
-| 2026 | [A comprehensive survey on artificial intelligence for biomolecule design](https://doi.org/10.59717/j.xinn-life.2026.100196) | The Innovation Life |
-| 2025 | [Back to the Feature: Explaining Video Classifiers with Video Counterfactual Explanations](https://doi.org/10.48550/arxiv.2511.20295) | Research Portal (King's College London) |
-| 2025 | [Data from An Fc-Engineered Glycomodified Antibody Supports Proinflammatory Activation of Immune Effector Cells and Restricts Progression of Breast Cancer](https://doi.org/10.1158/0008-5472.c.8147728) | — |
+| 2026 | [Lemon: A large endoscopic monocular dataset and foundation model for perception in surgical settings](https://openaccess.thecvf.com/content/CVPR2026/html/Che_LEMON_A_Large_Endoscopic_MONocular_Dataset_and_Foundation_Model_for_CVPR_2026_paper.html) | — |
+| 2026 | [A comprehensive survey on artificial intelligence for biomolecule design](https://www.the-innovation.org/article/doi/10.59717/j.xinn-life.2026.100196) | — |
+| 2026 | [A stitch in time: Learning procedural workflow via self-supervised plackett-luce ranking](https://openaccess.thecvf.com/content/CVPR2026/html/Che_A_Stitch_in_Time_Learning_Procedural_Workflow_via_Self-Supervised_Plackett-Luce_CVPR_2026_paper.html) | — |
+| 2026 | [Integrated Methylome–Transcriptome Analysis Reveals Epigenomic Remodeling and Rho GTPase–Linked Immune–Epithelial Crosstalk in Atopic Dermatitis](https://onlinelibrary.wiley.com/doi/abs/10.1111/all.70259) | Allergy |
+| 2026 | [B cells and humoral immunity in melanoma: regulatory and autoimmune-like features and implications for immunotherapy](https://www.tandfonline.com/doi/abs/10.1080/2162402X.2026.2638620) | — |
+| 2026 | [FP11 Circulating immunoregulatory B-and T-cell profiles in patients with melanoma modulated with checkpoint inhibitor immunotherapy](https://academic.oup.com/bjd/article/195/1/ljag151.034/8714003) | British Journal of Dermatology |
+| 2026 | [Mapping Molecular Transitions in Barrett’s-Associated Oesophageal Adenocarcinoma via Multi-Omics Integration and Pathway Activity Modelling](https://www.mdpi.com/2072-6694/18/13/2080) | Cancers |
+| 2026 | [SCONE: Subset-Contrastive Multi-Omics Network Embedding](https://kclpure.kcl.ac.uk/portal/en/publications/scone-subset-contrastive-multi-omics-network-embedding/) | Briefings in Bioinformatics |
+| 2026 | [Phenotypic, functional, prognostic and predictive significance of B-cell and antibody responses in human melanoma: a scoping review](https://academic.oup.com/bjd/article/doi/10.1093/bjd/ljag074/8498803) | — |
+| 2026 | [An antibody-drug conjugate designed through clone and isotype selection restricts the growth of CSPG4-expressing triple-negative breast cancer](https://www.nature.com/articles/s41698-026-01341-0) | NPJ precision oncology |
 
-<sub>Source: openalex · [View full publication list on Google Scholar →](https://scholar.google.com/citations?user=LUU0EFgAAAAJ&hl=en)</sub>
+<sub>Source: google_scholar · [View full publication list on Google Scholar →](https://scholar.google.com/citations?user=LUU0EFgAAAAJ&hl=en)</sub>
 
 <!-- PUBLICATIONS:END -->
 
