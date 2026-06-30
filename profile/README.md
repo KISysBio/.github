@@ -23,9 +23,9 @@
 
 ## About us
 
-We are the **Systems Biology group** in the [Department of Informatics](https://www.kcl.ac.uk/informatics) at [King's College London](https://www.kcl.ac.uk), led by [Dr Sophia Tsoka](https://www.kcl.ac.uk/people/sophia-tsoka).
+This is the Github page of the **Systems Biology group** in the [Department of Informatics](https://www.kcl.ac.uk/informatics) at [King's College London](https://www.kcl.ac.uk), led by [Dr Sophia Tsoka](https://www.kcl.ac.uk/people/sophia-tsoka).
 
-We develop **algorithmic and machine-learning methods** to understand complex biological systems — from metabolic and protein–protein interaction networks to multi-omic patient data — with a strong emphasis on **interpretability** and **translational impact** in precision medicine and drug discovery.
+Our group develops **algorithmic and machine-learning methods** to understand complex biological systems — from metabolic and protein–protein interaction networks to multi-omic patient data — with a strong emphasis on **interpretability** and **translational impact** in precision medicine and drug discovery.
 
 > *"Bridging algorithmic innovation with biological insight."*
 
@@ -113,7 +113,7 @@ Network embedding · drug–target interaction prediction · pathway activity in
   <br/>
   <sub><i>PhD Student</i></sub>
   <br/><br/>
-  <sub>Machine Learning for drug discovery and ML-driven methods for biodosimetry </sub>
+  <sub>AI for drug discovery and ML-driven methods for biodosimetry </sub>
 </td>
 <td align="center" width="33%">
   <a href="https://github.com/xinyue1chen">
