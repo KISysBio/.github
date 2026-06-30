@@ -219,7 +219,7 @@ Network embedding · drug–target interaction prediction · pathway activity in
 
 ## Recent publications
 
-Recent research from the group (auto-updated monthly from [Dr Sophia Tsoka's Google Scholar profile](https://scholar.google.com/citations?user=LUU0EFgAAAAJ&hl=en); last sync: **2026-06-30**).
+Recent research from the group(last sync: **2026-06-30**).
 
 | Year | Publication | Venue |
 | :--: | :-- | :-- |
