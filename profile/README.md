@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-[![King's College London](https://img.shields.io/badge/King%27s%20College%20London-Informatics-DC143C?style=for-the-badge)](https://www.kcl.ac.uk)
+[![King's College London](https://img.shields.io/badge/King%27s%20College%20London-DC143C?style=for-the-badge)](https://www.kcl.ac.uk)
 [![Department](https://img.shields.io/badge/Department-Informatics-1e293b?style=for-the-badge)](https://www.kcl.ac.uk/informatics)
 [![Location](https://img.shields.io/badge/Location-London,_UK-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/KISysBio)
 [![Group Lead](https://img.shields.io/badge/Group_Lead-Dr._Sophia_Tsoka-8b5cf6?style=for-the-badge)](https://www.kcl.ac.uk/people/sophia-tsoka)
