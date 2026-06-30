@@ -13,9 +13,7 @@ import sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
-from urllib.parse import quote
-
-import urllib.request
+from urllib.request import Request, urlopen
 
 SCHOLAR_USER_ID = "LUU0EFgAAAAJ"
 OPENALEX_AUTHOR_ID = "A5076507299"
@@ -24,17 +22,18 @@ ROOT = Path(__file__).resolve().parents[1]
 DATA_PATH = ROOT / "profile" / "data" / "publications.json"
 
 SKIP_TITLE_PATTERN = re.compile(
-    r"^(figure|supplementary|supplement)\b",
+    r"^(figure|supplementary|supplement|data from)\b",
     re.IGNORECASE,
 )
+SKIP_VENUE_PATTERN = re.compile(r"research portal", re.IGNORECASE)
 
 
 def http_get_json(url: str, timeout: int = 30) -> dict:
-    request = urllib.request.Request(
+    request = Request(
         url,
         headers={"User-Agent": "KISysBio-profile-bot/1.0 (https://github.com/KISysBio)"},
     )
-    with urllib.request.urlopen(request, timeout=timeout) as response:
+    with urlopen(request, timeout=timeout) as response:
         return json.loads(response.read().decode())
 
 
@@ -46,15 +45,30 @@ def normalise_publication(
     citations: int | None = None,
 ) -> dict | None:
     title = (title or "").strip()
+    venue = (venue or "").strip()
     if not title or SKIP_TITLE_PATTERN.search(title):
+        return None
+    if venue and SKIP_VENUE_PATTERN.search(venue):
         return None
     return {
         "title": title,
         "year": str(year) if year else "",
-        "venue": (venue or "").strip(),
+        "venue": venue,
         "url": (url or "").strip(),
         "citations": citations,
     }
+
+
+def dedupe_publications(publications: list[dict]) -> list[dict]:
+    seen: set[str] = set()
+    unique: list[dict] = []
+    for pub in publications:
+        key = re.sub(r"[^a-z0-9]+", "", pub["title"].lower())
+        if key in seen:
+            continue
+        seen.add(key)
+        unique.append(pub)
+    return unique
 
 
 def fetch_from_openalex(limit: int = MAX_PUBLICATIONS) -> list[dict]:
@@ -91,7 +105,7 @@ def fetch_from_openalex(limit: int = MAX_PUBLICATIONS) -> list[dict]:
             publications.append(pub)
         if len(publications) >= limit:
             break
-    return publications
+    return dedupe_publications(publications)[:limit]
 
 
 def fetch_from_scholar(limit: int = MAX_PUBLICATIONS) -> list[dict]:
@@ -148,7 +162,7 @@ def fetch_from_scholar(limit: int = MAX_PUBLICATIONS) -> list[dict]:
             )
             if normalised:
                 publications.append(normalised)
-    return publications
+    return dedupe_publications(publications)[:limit]
 
 
 def fetch_publications() -> dict:
