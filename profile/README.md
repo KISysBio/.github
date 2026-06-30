@@ -193,7 +193,7 @@ Network embedding · drug–target interaction prediction · pathway activity in
   <br/>
   <sub><i>PhD Student</i></sub>
   <br/><br/>
-  <sub>Member of the Systems Biology group at King's College London.</sub>
+  <sub>Machine learning and bioinformatics research in the Systems Biology group.</sub>
 </td>
 </tr>
 </table>
