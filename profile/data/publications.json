@@ -1,0 +1,72 @@
+{
+  "updated_at": "2026-06-30",
+  "source": "openalex",
+  "scholar_profile": "https://scholar.google.com/citations?user=LUU0EFgAAAAJ&hl=en",
+  "scholar_user_id": "LUU0EFgAAAAJ",
+  "fetch_error": null,
+  "publications": [
+    {
+      "title": "Mapping Molecular Transitions in Barrett’s-Associated Oesophageal Adenocarcinoma via Multi-Omics Integration and Pathway Activity Modelling",
+      "year": "2026",
+      "venue": "Cancers",
+      "url": "https://doi.org/10.3390/cancers18132080",
+      "citations": 0
+    },
+    {
+      "title": "FP11 Circulating immunoregulatory B- and T-cell profiles in patients with melanoma modulated with checkpoint inhibitor immunotherapy",
+      "year": "2026",
+      "venue": "British Journal of Dermatology",
+      "url": "https://doi.org/10.1093/bjd/ljag151.034",
+      "citations": 0
+    },
+    {
+      "title": "An antibody-drug conjugate designed through clone and isotype selection restricts the growth of CSPG4-expressing triple-negative breast cancer",
+      "year": "2026",
+      "venue": "npj Precision Oncology",
+      "url": "https://doi.org/10.1038/s41698-026-01341-0",
+      "citations": 0
+    },
+    {
+      "title": "B cells and humoral immunity in melanoma: regulatory and autoimmune-like features and implications for immunotherapy",
+      "year": "2026",
+      "venue": "OncoImmunology",
+      "url": "https://doi.org/10.1080/2162402x.2026.2638620",
+      "citations": 0
+    },
+    {
+      "title": "An Antibody-Drug Conjugate Designed Through Clone and Isotype Selection Restricts the Growth of CSPG4-Expressing Triple-Negative Breast Cancer",
+      "year": "2026",
+      "venue": "Research Portal (King's College London)",
+      "url": "https://openalex.org/W7132210499",
+      "citations": 0
+    },
+    {
+      "title": "Immunophenotyping TCF1-expressing TILs: spatial profiling and prognostic value in operable non-small cell lung cancer",
+      "year": "2026",
+      "venue": "Frontiers in Immunology",
+      "url": "https://doi.org/10.3389/fimmu.2026.1731337",
+      "citations": 0
+    },
+    {
+      "title": "A comprehensive survey on artificial intelligence for biomolecule design",
+      "year": "2026",
+      "venue": "The Innovation Life",
+      "url": "https://doi.org/10.59717/j.xinn-life.2026.100196",
+      "citations": 3
+    },
+    {
+      "title": "Back to the Feature: Explaining Video Classifiers with Video Counterfactual Explanations",
+      "year": "2025",
+      "venue": "Research Portal (King's College London)",
+      "url": "https://doi.org/10.48550/arxiv.2511.20295",
+      "citations": 0
+    },
+    {
+      "title": "Data from An Fc-Engineered Glycomodified Antibody Supports Proinflammatory Activation of Immune Effector Cells and Restricts Progression of Breast Cancer",
+      "year": "2025",
+      "venue": "",
+      "url": "https://doi.org/10.1158/0008-5472.c.8147728",
+      "citations": 0
+    }
+  ]
+}

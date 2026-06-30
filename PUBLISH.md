@@ -28,8 +28,16 @@ After pushing, visit https://github.com/KISysBio — the README should appear wi
 
 ## Customise
 
-- **Member bios:** Edit the "Group members" table in `profile/README.md`. Several entries use placeholder text — replace with accurate titles and research summaries.
+- **Member bios:** Edit the "Group members" and "Alumni" tables in `profile/README.md`.
 - **Repositories:** Add or remove rows in the "Featured repositories" table as new projects are published.
+- **Publications:** Auto-updated monthly via `.github/workflows/update-publications.yml`. To refresh manually, run `workflow_dispatch` on that workflow in GitHub Actions, or locally:
+
+  ```bash
+  pip install scholarly
+  python scripts/fetch_publications.py
+  python scripts/update_profile_publications.py
+  ```
+
 - **Banner colours:** Edit `assets/banner.svg` — indigo/purple theme matches KCL crimson accents in the badges.
 
 ## Notes

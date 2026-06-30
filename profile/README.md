@@ -105,42 +105,6 @@ Network embedding · drug–target interaction prediction · pathway activity in
   <sub>Computational genome analysis, network reconstruction, and explainable AI for biomedicine. Leads the <a href="https://www.kcl.ac.uk/research/ada">Algorithms & Data Analysis</a> research strand.</sub>
 </td>
 <td align="center" width="33%">
-  <a href="https://github.com/jonjoncardoso">
-    <img src="https://github.com/jonjoncardoso.png" width="110" alt="Jon Cardoso-Silva" style="border-radius:50%"/>
-  </a>
-  <br/><br/>
-  <b><a href="https://github.com/jonjoncardoso">Jon Cardoso-Silva</a></b>
-  <br/>
-  <sub><i>Research collaborator · LSE</i></sub>
-  <br/><br/>
-  <sub>Creator of <a href="https://github.com/KISysBio/modSAR">modSAR</a> and <a href="https://github.com/KISysBio/OPLRAreg">OPLRAreg</a>. Network-based piecewise regression for QSAR and cheminformatics.</sub>
-</td>
-<td align="center" width="33%">
-  <a href="https://github.com/yutongLi1997">
-    <img src="https://github.com/yutongLi1997.png" width="110" alt="Ruby Li" style="border-radius:50%"/>
-  </a>
-  <br/><br/>
-  <b><a href="https://github.com/yutongLi1997">Ruby Li</a></b>
-  <br/>
-  <sub><i>PhD Student</i></sub>
-  <br/><br/>
-  <sub>Optimisation-based modelling for explainable drug discovery, graph embedding, and drug–virus interaction prediction.</sub>
-</td>
-</tr>
-<tr><td colspan="3"><br/></td></tr>
-<tr>
-<td align="center" width="33%">
-  <a href="https://github.com/phcavelar">
-    <img src="https://github.com/phcavelar.png" width="110" alt="Pedro Avelar" style="border-radius:50%"/>
-  </a>
-  <br/><br/>
-  <b><a href="https://github.com/phcavelar">Pedro Henrique da Costa Avelar</a></b>
-  <br/>
-  <sub><i>PhD Student</i></sub>
-  <br/><br/>
-  <sub>Pathway activity inference, network embedding, and multi-omics integration. Author of <a href="https://github.com/KISysBio/pathwayae">pathwayae</a> and <a href="https://github.com/KISysBio/network-multi-omics">network-multi-omics</a>.</sub>
-</td>
-<td align="center" width="33%">
   <a href="https://github.com/modest2798">
     <img src="https://github.com/modest2798.png" width="110" alt="Modest Lungociu" style="border-radius:50%"/>
   </a>
@@ -201,6 +165,77 @@ Network embedding · drug–target interaction prediction · pathway activity in
 </tr>
 </table>
 
+---
+
+## Alumni
+
+<table>
+<tr>
+<td align="center" width="33%">
+  <a href="https://github.com/jonjoncardoso">
+    <img src="https://github.com/jonjoncardoso.png" width="100" alt="Jon Cardoso-Silva" style="border-radius:50%"/>
+  </a>
+  <br/><br/>
+  <b><a href="https://github.com/jonjoncardoso">Jon Cardoso-Silva</a></b>
+  <br/>
+  <sub><i>Former PhD Student</i></sub>
+  <br/>
+  <sub><b>Now at</b> · <a href="https://www.lse.ac.uk">London School of Economics</a></sub>
+  <br/><br/>
+  <sub>Creator of <a href="https://github.com/KISysBio/modSAR">modSAR</a> and <a href="https://github.com/KISysBio/OPLRAreg">OPLRAreg</a>. Network-based piecewise regression for QSAR.</sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://github.com/yutongLi1997">
+    <img src="https://github.com/yutongLi1997.png" width="100" alt="Ruby Li" style="border-radius:50%"/>
+  </a>
+  <br/><br/>
+  <b><a href="https://github.com/yutongLi1997">Ruby Li</a></b>
+  <br/>
+  <sub><i>Former PhD Student</i></sub>
+  <br/>
+  <sub><b>Now at</b> · <a href="https://www.ucl.ac.uk">University College London</a></sub>
+  <br/><br/>
+  <sub>Optimisation-based modelling for explainable drug discovery and graph embedding methods.</sub>
+</td>
+<td align="center" width="33%">
+  <a href="https://github.com/phcavelar">
+    <img src="https://github.com/phcavelar.png" width="100" alt="Pedro Avelar" style="border-radius:50%"/>
+  </a>
+  <br/><br/>
+  <b><a href="https://github.com/phcavelar">Pedro Henrique da Costa Avelar</a></b>
+  <br/>
+  <sub><i>Former PhD Student</i></sub>
+  <br/>
+  <sub><b>Now at</b> · <a href="https://www.manchester.ac.uk">University of Manchester</a></sub>
+  <br/><br/>
+  <sub>Pathway activity inference and multi-omics integration. Author of <a href="https://github.com/KISysBio/pathwayae">pathwayae</a>.</sub>
+</td>
+</tr>
+</table>
+
+---
+
+<!-- PUBLICATIONS:START -->
+
+## Recent publications
+
+Recent research from the group (auto-updated monthly from [Dr Sophia Tsoka's Google Scholar profile](https://scholar.google.com/citations?user=LUU0EFgAAAAJ&hl=en); last sync: **2026-06-30**).
+
+| Year | Publication | Venue |
+| :--: | :-- | :-- |
+| 2026 | [Mapping Molecular Transitions in Barrett’s-Associated Oesophageal Adenocarcinoma via Multi-Omics Integration and Pathway Activity Modelling](https://doi.org/10.3390/cancers18132080) | Cancers |
+| 2026 | [FP11 Circulating immunoregulatory B- and T-cell profiles in patients with melanoma modulated with checkpoint inhibitor immunotherapy](https://doi.org/10.1093/bjd/ljag151.034) | British Journal of Dermatology |
+| 2026 | [An antibody-drug conjugate designed through clone and isotype selection restricts the growth of CSPG4-expressing triple-negative breast cancer](https://doi.org/10.1038/s41698-026-01341-0) | npj Precision Oncology |
+| 2026 | [B cells and humoral immunity in melanoma: regulatory and autoimmune-like features and implications for immunotherapy](https://doi.org/10.1080/2162402x.2026.2638620) | OncoImmunology |
+| 2026 | [An Antibody-Drug Conjugate Designed Through Clone and Isotype Selection Restricts the Growth of CSPG4-Expressing Triple-Negative Breast Cancer](https://openalex.org/W7132210499) | Research Portal (King's College London) |
+| 2026 | [Immunophenotyping TCF1-expressing TILs: spatial profiling and prognostic value in operable non-small cell lung cancer](https://doi.org/10.3389/fimmu.2026.1731337) | Frontiers in Immunology |
+| 2026 | [A comprehensive survey on artificial intelligence for biomolecule design](https://doi.org/10.59717/j.xinn-life.2026.100196) | The Innovation Life |
+| 2025 | [Back to the Feature: Explaining Video Classifiers with Video Counterfactual Explanations](https://doi.org/10.48550/arxiv.2511.20295) | Research Portal (King's College London) |
+| 2025 | [Data from An Fc-Engineered Glycomodified Antibody Supports Proinflammatory Activation of Immune Effector Cells and Restricts Progression of Breast Cancer](https://doi.org/10.1158/0008-5472.c.8147728) | — |
+
+<sub>Source: openalex · [View full publication list on Google Scholar →](https://scholar.google.com/citations?user=LUU0EFgAAAAJ&hl=en)</sub>
+
+<!-- PUBLICATIONS:END -->
 
 ---
 
