@@ -1,15 +1,18 @@
 <div align="center">
 
-<!-- Animated typing header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=1200&color=6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=90&lines=Systems+Biology+%7C+King's+College+London;Network+Analysis+%26+Reconstruction;Explainable+AI+for+Biomedicine;Multi-Omics+Integration+%26+Drug+Discovery)](https://git.io/typing-svg)
+<!-- Static title line -->
+<h2>Systems Biology &nbsp;|&nbsp; King's College London</h2>
 
-<br/>
+<!-- Animated subtitle — single line cycles below the title -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=2800&pause=1200&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=40&lines=Network+Analysis+%26+Reconstruction;Explainable+AI+for+Biomedicine;Multi-Omics+Integration+%26+Drug+Discovery;QSAR+%26+Drug+Discovery" alt="Animated research themes"/>
+
+<br/><br/>
 
 <img src="https://raw.githubusercontent.com/KISysBio/.github/main/assets/banner.svg" width="100%" alt="Animated network banner — nodes and edges representing biological systems"/>
 
 <br/><br/>
 
-[![King's College London](https://www.kcl.ac.uk)]
+[![King's College London](https://img.shields.io/badge/King%27s%20College%20London-Informatics-DC143C?style=for-the-badge)](https://www.kcl.ac.uk)
 [![Department](https://img.shields.io/badge/Department-Informatics-1e293b?style=for-the-badge)](https://www.kcl.ac.uk/informatics)
 [![Location](https://img.shields.io/badge/Location-London,_UK-0ea5e9?style=for-the-badge&logo=googlemaps&logoColor=white)](https://github.com/KISysBio)
 [![Group Lead](https://img.shields.io/badge/Group_Lead-Dr._Sophia_Tsoka-8b5cf6?style=for-the-badge)](https://www.kcl.ac.uk/people/sophia-tsoka)
