@@ -174,15 +174,17 @@ Network embedding · drug–target interaction prediction · pathway activity in
   <sub>Creator of <a href="https://github.com/KISysBio/modSAR">modSAR</a> and <a href="https://github.com/KISysBio/OPLRAreg">OPLRAreg</a>. Network-based piecewise regression for QSAR.</sub>
 </td>
   <td align="center" width="33%">
-  <a href="https://github.com/lilichennn">
-    <img src="https://github.com/lilichennn.png" width="110" alt="Lili Chen" style="border-radius:50%"/>
+  <a href="https://github.com/phcavelar">
+    <img src="https://github.com/phcavelar.png" width="100" alt="Pedro Avelar" style="border-radius:50%"/>
   </a>
   <br/><br/>
-  <b><a href="https://github.com/lilichennn">Lili Chen</a></b>
+  <b><a href="https://github.com/phcavelar">Pedro Henrique da Costa Avelar</a></b>
   <br/>
   <sub><i>Former PhD Student</i></sub>
+  <br/>
+  <sub><b>Now at</b> · <a href="https://www.manchester.ac.uk">University of Manchester</a></sub>
   <br/><br/>
-  <sub>Machine learning and bioinformatics research in the Systems Biology group.</sub>
+  <sub>Pathway activity inference and multi-omics integration. Author of <a href="https://github.com/KISysBio/pathwayae">pathwayae</a>.</sub>
 </td>
 <td align="center" width="33%">
   <a href="https://github.com/yutongLi1997">
@@ -200,17 +202,15 @@ Network embedding · drug–target interaction prediction · pathway activity in
   </tr>
   <tr>
 <td align="center" width="33%">
-  <a href="https://github.com/phcavelar">
-    <img src="https://github.com/phcavelar.png" width="100" alt="Pedro Avelar" style="border-radius:50%"/>
+  <a href="https://github.com/lilichennn">
+    <img src="https://github.com/lilichennn.png" width="110" alt="Lili Chen" style="border-radius:50%"/>
   </a>
   <br/><br/>
-  <b><a href="https://github.com/phcavelar">Pedro Henrique da Costa Avelar</a></b>
+  <b><a href="https://github.com/lilichennn">Lili Chen</a></b>
   <br/>
   <sub><i>Former PhD Student</i></sub>
-  <br/>
-  <sub><b>Now at</b> · <a href="https://www.manchester.ac.uk">University of Manchester</a></sub>
   <br/><br/>
-  <sub>Pathway activity inference and multi-omics integration. Author of <a href="https://github.com/KISysBio/pathwayae">pathwayae</a>.</sub>
+  <sub>Machine learning and bioinformatics research in the Systems Biology group.</sub>
 </td>
 </tr>
 </table>
