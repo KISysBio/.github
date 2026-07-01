@@ -130,17 +130,6 @@ Network embedding · drug–target interaction prediction · pathway activity in
 <tr><td colspan="3"><br/></td></tr>
 <tr>
 <td align="center" width="33%">
-  <a href="https://github.com/lilichennn">
-    <img src="https://github.com/lilichennn.png" width="110" alt="Lili Chen" style="border-radius:50%"/>
-  </a>
-  <br/><br/>
-  <b><a href="https://github.com/lilichennn">Lili Chen</a></b>
-  <br/>
-  <sub><i>PhD Student</i></sub>
-  <br/><br/>
-  <sub>Machine learning and bioinformatics research in the Systems Biology group.</sub>
-</td>
-<td align="center" width="33%">
   <a href="https://github.com/sabazaib19">
     <img src="https://github.com/sabazaib19.png" width="110" alt="Sabaoon Zeb" style="border-radius:50%"/>
   </a>
@@ -183,6 +172,17 @@ Network embedding · drug–target interaction prediction · pathway activity in
   <sub><b>Now at</b> · <a href="https://www.lse.ac.uk">London School of Economics</a></sub>
   <br/><br/>
   <sub>Creator of <a href="https://github.com/KISysBio/modSAR">modSAR</a> and <a href="https://github.com/KISysBio/OPLRAreg">OPLRAreg</a>. Network-based piecewise regression for QSAR.</sub>
+</td>
+  <td align="center" width="33%">
+  <a href="https://github.com/lilichennn">
+    <img src="https://github.com/lilichennn.png" width="110" alt="Lili Chen" style="border-radius:50%"/>
+  </a>
+  <br/><br/>
+  <b><a href="https://github.com/lilichennn">Lili Chen</a></b>
+  <br/>
+  <sub><i>Former PhD Student</i></sub>
+  <br/><br/>
+  <sub>Machine learning and bioinformatics research in the Systems Biology group.</sub>
 </td>
 <td align="center" width="33%">
   <a href="https://github.com/yutongLi1997">
