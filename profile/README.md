@@ -197,6 +197,8 @@ Network embedding · drug–target interaction prediction · pathway activity in
   <br/><br/>
   <sub>Optimisation-based modelling for explainable drug discovery and graph embedding methods.</sub>
 </td>
+  </tr>
+  <tr>
 <td align="center" width="33%">
   <a href="https://github.com/phcavelar">
     <img src="https://github.com/phcavelar.png" width="100" alt="Pedro Avelar" style="border-radius:50%"/>
