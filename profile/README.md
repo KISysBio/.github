@@ -219,7 +219,7 @@ Network embedding · drug–target interaction prediction · pathway activity in
 
 ## Recent publications
 
-Recent research from the group(last sync: **2026-06-30**).
+Recent research from the group (auto-updated monthly from [Dr Sophia Tsoka's Google Scholar profile](https://scholar.google.com/citations?user=LUU0EFgAAAAJ&hl=en); last sync: **2026-07-01**).
 
 | Year | Publication | Venue |
 | :--: | :-- | :-- |
@@ -228,7 +228,7 @@ Recent research from the group(last sync: **2026-06-30**).
 | 2026 | [A stitch in time: Learning procedural workflow via self-supervised plackett-luce ranking](https://openaccess.thecvf.com/content/CVPR2026/html/Che_A_Stitch_in_Time_Learning_Procedural_Workflow_via_Self-Supervised_Plackett-Luce_CVPR_2026_paper.html) | — |
 | 2026 | [Integrated Methylome–Transcriptome Analysis Reveals Epigenomic Remodeling and Rho GTPase–Linked Immune–Epithelial Crosstalk in Atopic Dermatitis](https://onlinelibrary.wiley.com/doi/abs/10.1111/all.70259) | Allergy |
 | 2026 | [B cells and humoral immunity in melanoma: regulatory and autoimmune-like features and implications for immunotherapy](https://www.tandfonline.com/doi/abs/10.1080/2162402X.2026.2638620) | — |
-| 2026 | [FP11 Circulating immunoregulatory B-and T-cell profiles in patients with melanoma modulated with checkpoint inhibitor immunotherapy](https://academic.oup.com/bjd/article/195/1/ljag151.034/8714003) | British Journal of Dermatology |
+| 2026 | [FP11 Circulating immunoregulatory B-and T-cell profiles in patients with melanoma modulated with checkpoint inhibitor immunotherapy](https://academic.oup.com/bjd/article-abstract/195/1/ljag151.034/8714003) | British Journal of Dermatology |
 | 2026 | [Mapping Molecular Transitions in Barrett’s-Associated Oesophageal Adenocarcinoma via Multi-Omics Integration and Pathway Activity Modelling](https://www.mdpi.com/2072-6694/18/13/2080) | Cancers |
 | 2026 | [SCONE: Subset-Contrastive Multi-Omics Network Embedding](https://kclpure.kcl.ac.uk/portal/en/publications/scone-subset-contrastive-multi-omics-network-embedding/) | Briefings in Bioinformatics |
 | 2026 | [Phenotypic, functional, prognostic and predictive significance of B-cell and antibody responses in human melanoma: a scoping review](https://academic.oup.com/bjd/article/doi/10.1093/bjd/ljag074/8498803) | — |
