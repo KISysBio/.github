@@ -66,7 +66,7 @@ Network embedding · drug–target interaction prediction · pathway activity in
 | [**modSAR**](https://github.com/KISysBio/modSAR) | Network-based piecewise linear regression for QSAR | `Jupyter` |
 | [**qsar-models**](https://github.com/KISysBio/qsar-models) | Data and regression models for QSAR | `HTML` |
 | [**qsar-tutorial**](https://github.com/KISysBio/qsar-tutorial) | QSAR tutorial — ChEMBL data & RDKit | `Jupyter` |
-| [**network-multi-omics**](https://github.com/KISysBio/network-multi-omics) | Network embedding & multi-omics integration | `Jupyter` |
+| [**network-multi-omics**](https://github.com/KISysBio/network-multi-omics) | SCONE: subset-contrastive multi-omics network embedding ([paper](https://kclpure.kcl.ac.uk/portal/en/publications/scone-subset-contrastive-multi-omics-network-embedding/)) | `Python` |
 | [**DT2Vec**](https://github.com/KISysBio/DT2Vec) | Drug–target interaction via link prediction & embedding | `Jupyter` |
 | [**pathwayae**](https://github.com/KISysBio/pathwayae) | Pathway activity inference ([paper](https://arxiv.org/abs/2306.05813)) | `Jupyter` |
 | [**CGM**](https://github.com/KISysBio/CGM) | Multi-gene ML risk classification for breast cancer prognosis | `Jupyter` |
@@ -184,7 +184,7 @@ Network embedding · drug–target interaction prediction · pathway activity in
   <br/>
   <sub><b>Now at</b> · <a href="https://www.manchester.ac.uk">University of Manchester</a></sub>
   <br/><br/>
-  <sub>Pathway activity inference and multi-omics integration. Author of <a href="https://github.com/KISysBio/pathwayae">pathwayae</a>.</sub>
+  <sub>Pathway activity inference and multi-omics integration. Author of <a href="https://github.com/KISysBio/pathwayae">pathwayae</a> and <a href="https://github.com/KISysBio/network-multi-omics">network-multi-omics</a> (SCONE).</sub>
 </td>
 <td align="center" width="33%">
   <a href="https://github.com/yutongLi1997">
