@@ -1,71 +1,78 @@
 {
-  "updated_at": "2026-08-01",
-  "source": "openalex",
+  "updated_at": "2026-09-01",
+  "source": "google_scholar",
   "scholar_profile": "https://scholar.google.com/citations?user=LUU0EFgAAAAJ&hl=en",
   "scholar_user_id": "LUU0EFgAAAAJ",
-  "fetch_error": "Cannot Fetch from Google Scholar.",
+  "fetch_error": null,
   "publications": [
     {
-      "title": "Deep Contrastive Learning for High‐Throughput Prediction of Drug Resistance Mutations from Sequences",
+      "title": "Lemon: A large endoscopic monocular dataset and foundation model for perception in surgical settings",
       "year": "2026",
-      "venue": "Advanced Science",
-      "url": "https://doi.org/10.1002/advs.202514899",
-      "citations": 0
+      "venue": "",
+      "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Che_LEMON_A_Large_Endoscopic_MONocular_Dataset_and_Foundation_Model_for_CVPR_2026_paper.html",
+      "citations": 14
     },
     {
-      "title": "Biologically Informed Deep Neural Networks for Multi-Omic Integration, Pathway Activity Inference and Risk Stratification in Cancer",
+      "title": "A stitch in time: Learning procedural workflow via self-supervised plackett-luce ranking",
       "year": "2026",
-      "venue": "arXiv (Cornell University)",
-      "url": "https://doi.org/10.48550/arxiv.2607.05306",
-      "citations": 0
-    },
-    {
-      "title": "Mapping Molecular Transitions in Barrett’s-Associated Oesophageal Adenocarcinoma via Multi-Omics Integration and Pathway Activity Modelling",
-      "year": "2026",
-      "venue": "Cancers",
-      "url": "https://doi.org/10.3390/cancers18132080",
-      "citations": 0
-    },
-    {
-      "title": "FP11 Circulating immunoregulatory B- and T-cell profiles in patients with melanoma modulated with checkpoint inhibitor immunotherapy",
-      "year": "2026",
-      "venue": "British Journal of Dermatology",
-      "url": "https://doi.org/10.1093/bjd/ljag151.034",
-      "citations": 0
-    },
-    {
-      "title": "An antibody-drug conjugate designed through clone and isotype selection restricts the growth of CSPG4-expressing triple-negative breast cancer",
-      "year": "2026",
-      "venue": "npj Precision Oncology",
-      "url": "https://doi.org/10.1038/s41698-026-01341-0",
-      "citations": 0
-    },
-    {
-      "title": "B cells and humoral immunity in melanoma: regulatory and autoimmune-like features and implications for immunotherapy",
-      "year": "2026",
-      "venue": "OncoImmunology",
-      "url": "https://doi.org/10.1080/2162402x.2026.2638620",
-      "citations": 0
-    },
-    {
-      "title": "Immunophenotyping TCF1-expressing TILs: spatial profiling and prognostic value in operable non-small cell lung cancer",
-      "year": "2026",
-      "venue": "Frontiers in Immunology",
-      "url": "https://doi.org/10.3389/fimmu.2026.1731337",
-      "citations": 0
+      "venue": "",
+      "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Che_A_Stitch_in_Time_Learning_Procedural_Workflow_via_Self-Supervised_Plackett-Luce_CVPR_2026_paper.html",
+      "citations": 4
     },
     {
       "title": "A comprehensive survey on artificial intelligence for biomolecule design",
       "year": "2026",
-      "venue": "The Innovation Life",
-      "url": "https://doi.org/10.59717/j.xinn-life.2026.100196",
+      "venue": "",
+      "url": "https://www.researchgate.net/profile/Guang-Yang-240/publication/399856867_A_comprehensive_survey_on_artificial_intelligence_for_biomolecule_design/links/696b72275cc49c35ce7f5c7e/A-comprehensive-survey-on-artificial-intelligence-for-biomolecule-design.pdf",
       "citations": 3
     },
     {
-      "title": "Designing scFlowVis: Visual Analytics for Single-Cell RNA Sequencing Analysis",
+      "title": "B cells and humoral immunity in melanoma: regulatory and autoimmune-like features and implications for immunotherapy",
       "year": "2026",
-      "venue": "IEEE Computer Graphics and Applications",
-      "url": "https://doi.org/10.1109/mcg.2026.3709602",
+      "venue": "",
+      "url": "https://www.tandfonline.com/doi/abs/10.1080/2162402X.2026.2638620",
+      "citations": 1
+    },
+    {
+      "title": "Integrated Methylome–Transcriptome Analysis Reveals Epigenomic Remodeling and Rho GTPase–Linked Immune–Epithelial Crosstalk in Atopic Dermatitis",
+      "year": "2026",
+      "venue": "Allergy",
+      "url": "https://onlinelibrary.wiley.com/doi/abs/10.1111/all.70259",
+      "citations": 1
+    },
+    {
+      "title": "Phenotypic, functional, prognostic and predictive significance of B-cell and antibody responses in human melanoma: a scoping review",
+      "year": "2026",
+      "venue": "",
+      "url": "https://academic.oup.com/bjd/article/doi/10.1093/bjd/ljag074/8498803",
+      "citations": 1
+    },
+    {
+      "title": "An antibody-drug conjugate designed through clone and isotype selection restricts the growth of CSPG4-expressing triple-negative breast cancer",
+      "year": "2026",
+      "venue": "NPJ precision oncology",
+      "url": "https://www.nature.com/articles/s41698-026-01341-0",
+      "citations": 1
+    },
+    {
+      "title": "Back to the Feature: Explaining Video Classifiers with Video Counterfactual Explanations",
+      "year": "2026",
+      "venue": "",
+      "url": "https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Back_to_the_Feature_Explaining_Video_Classifiers_with_Video_Counterfactual_CVPR_2026_paper.html",
+      "citations": 1
+    },
+    {
+      "title": "Circulating B cell and T cell activation states predict clinical outcomes in melanoma and reveal dynamic immune reinvigoration with checkpoint inhibitor immunotherapy",
+      "year": "2026",
+      "venue": "Journal for Immunotherapy of Cancer",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC13475463/",
+      "citations": 0
+    },
+    {
+      "title": "Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma",
+      "year": "2026",
+      "venue": "Journal of Experimental & Clinical Cancer Research",
+      "url": "https://link.springer.com/article/10.1186/s13046-026-03797-1",
       "citations": 0
     }
   ]
