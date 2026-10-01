@@ -221,22 +221,20 @@ Network embedding · drug–target interaction prediction · pathway activity in
 
 ## Recent publications
 
-Recent research from the group (auto-updated monthly from [Dr Sophia Tsoka's Google Scholar profile](https://scholar.google.com/citations?user=LUU0EFgAAAAJ&hl=en); last sync: **2026-09-01**).
+Recent research from the group (auto-updated monthly from [Dr Sophia Tsoka's Google Scholar profile](https://scholar.google.com/citations?user=LUU0EFgAAAAJ&hl=en); last sync: **2026-10-01**).
 
 | Year | Publication | Venue |
 | :--: | :-- | :-- |
-| 2026 | [Lemon: A large endoscopic monocular dataset and foundation model for perception in surgical settings](https://openaccess.thecvf.com/content/CVPR2026/html/Che_LEMON_A_Large_Endoscopic_MONocular_Dataset_and_Foundation_Model_for_CVPR_2026_paper.html) | — |
-| 2026 | [A stitch in time: Learning procedural workflow via self-supervised plackett-luce ranking](https://openaccess.thecvf.com/content/CVPR2026/html/Che_A_Stitch_in_Time_Learning_Procedural_Workflow_via_Self-Supervised_Plackett-Luce_CVPR_2026_paper.html) | — |
-| 2026 | [A comprehensive survey on artificial intelligence for biomolecule design](https://www.researchgate.net/profile/Guang-Yang-240/publication/399856867_A_comprehensive_survey_on_artificial_intelligence_for_biomolecule_design/links/696b72275cc49c35ce7f5c7e/A-comprehensive-survey-on-artificial-intelligence-for-biomolecule-design.pdf) | — |
-| 2026 | [B cells and humoral immunity in melanoma: regulatory and autoimmune-like features and implications for immunotherapy](https://www.tandfonline.com/doi/abs/10.1080/2162402X.2026.2638620) | — |
-| 2026 | [Integrated Methylome–Transcriptome Analysis Reveals Epigenomic Remodeling and Rho GTPase–Linked Immune–Epithelial Crosstalk in Atopic Dermatitis](https://onlinelibrary.wiley.com/doi/abs/10.1111/all.70259) | Allergy |
-| 2026 | [Phenotypic, functional, prognostic and predictive significance of B-cell and antibody responses in human melanoma: a scoping review](https://academic.oup.com/bjd/article/doi/10.1093/bjd/ljag074/8498803) | — |
-| 2026 | [An antibody-drug conjugate designed through clone and isotype selection restricts the growth of CSPG4-expressing triple-negative breast cancer](https://www.nature.com/articles/s41698-026-01341-0) | NPJ precision oncology |
-| 2026 | [Back to the Feature: Explaining Video Classifiers with Video Counterfactual Explanations](https://openaccess.thecvf.com/content/CVPR2026/html/Wang_Back_to_the_Feature_Explaining_Video_Classifiers_with_Video_Counterfactual_CVPR_2026_paper.html) | — |
-| 2026 | [Circulating B cell and T cell activation states predict clinical outcomes in melanoma and reveal dynamic immune reinvigoration with checkpoint inhibitor immunotherapy](https://pmc.ncbi.nlm.nih.gov/articles/PMC13475463/) | Journal for Immunotherapy of Cancer |
-| 2026 | [Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma](https://link.springer.com/article/10.1186/s13046-026-03797-1) | Journal of Experimental & Clinical Cancer Research |
+| 2026 | [Additional file 6 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma](https://doi.org/10.6084/m9.figshare.33335380.v1) | Figshare |
+| 2026 | [Additional file 1 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma](https://doi.org/10.6084/m9.figshare.33335365) | Figshare |
+| 2026 | [Additional file 27 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma](https://doi.org/10.6084/m9.figshare.33335449.v1) | Figshare |
+| 2026 | [Additional file 24 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma](https://doi.org/10.6084/m9.figshare.33335440.v1) | Figshare |
+| 2026 | [Additional file 4 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma](https://doi.org/10.6084/m9.figshare.33335374) | Figshare |
+| 2026 | [Additional file 25 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma](https://doi.org/10.6084/m9.figshare.33335443.v1) | Figshare |
+| 2026 | [Additional file 21 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma](https://doi.org/10.6084/m9.figshare.33335431.v1) | Figshare |
+| 2026 | [Additional file 8 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma](https://doi.org/10.6084/m9.figshare.33335389.v1) | Figshare |
 
-<sub>Source: google_scholar · [View full publication list on Google Scholar →](https://scholar.google.com/citations?user=LUU0EFgAAAAJ&hl=en)</sub>
+<sub>Source: openalex · [View full publication list on Google Scholar →](https://scholar.google.com/citations?user=LUU0EFgAAAAJ&hl=en)</sub>
 
 <!-- PUBLICATIONS:END -->
 
