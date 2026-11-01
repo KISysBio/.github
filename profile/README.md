@@ -221,18 +221,20 @@ Network embedding · drug–target interaction prediction · pathway activity in
 
 ## Recent publications
 
-Recent research from the group (auto-updated monthly from [Dr Sophia Tsoka's Google Scholar profile](https://scholar.google.com/citations?user=LUU0EFgAAAAJ&hl=en); last sync: **2026-10-01**).
+Recent research from the group (auto-updated monthly from [Dr Sophia Tsoka's Google Scholar profile](https://scholar.google.com/citations?user=LUU0EFgAAAAJ&hl=en); last sync: **2026-11-01**).
 
 | Year | Publication | Venue |
 | :--: | :-- | :-- |
-| 2026 | [Additional file 6 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma](https://doi.org/10.6084/m9.figshare.33335380.v1) | Figshare |
 | 2026 | [Additional file 1 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma](https://doi.org/10.6084/m9.figshare.33335365) | Figshare |
-| 2026 | [Additional file 27 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma](https://doi.org/10.6084/m9.figshare.33335449.v1) | Figshare |
-| 2026 | [Additional file 24 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma](https://doi.org/10.6084/m9.figshare.33335440.v1) | Figshare |
+| 2026 | [Additional file 6 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma](https://doi.org/10.6084/m9.figshare.33335380) | Figshare |
 | 2026 | [Additional file 4 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma](https://doi.org/10.6084/m9.figshare.33335374) | Figshare |
-| 2026 | [Additional file 25 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma](https://doi.org/10.6084/m9.figshare.33335443.v1) | Figshare |
-| 2026 | [Additional file 21 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma](https://doi.org/10.6084/m9.figshare.33335431.v1) | Figshare |
-| 2026 | [Additional file 8 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma](https://doi.org/10.6084/m9.figshare.33335389.v1) | Figshare |
+| 2026 | [Additional file 16 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma](https://doi.org/10.6084/m9.figshare.33335416) | Figshare |
+| 2026 | [Additional file 19 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma](https://doi.org/10.6084/m9.figshare.33335425) | Figshare |
+| 2026 | [Additional file 7 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma](https://doi.org/10.6084/m9.figshare.33335386) | Figshare |
+| 2026 | [Additional file 17 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma](https://doi.org/10.6084/m9.figshare.33335419) | Figshare |
+| 2026 | [Additional file 25 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma](https://doi.org/10.6084/m9.figshare.33335443) | Figshare |
+| 2026 | [Additional file 22 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma](https://doi.org/10.6084/m9.figshare.33335434) | Figshare |
+| 2026 | [Additional file 27 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma](https://doi.org/10.6084/m9.figshare.33335449) | Figshare |
 
 <sub>Source: openalex · [View full publication list on Google Scholar →](https://scholar.google.com/citations?user=LUU0EFgAAAAJ&hl=en)</sub>
 

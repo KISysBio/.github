@@ -1,17 +1,10 @@
 {
-  "updated_at": "2026-10-01",
+  "updated_at": "2026-11-01",
   "source": "openalex",
   "scholar_profile": "https://scholar.google.com/citations?user=LUU0EFgAAAAJ&hl=en",
   "scholar_user_id": "LUU0EFgAAAAJ",
   "fetch_error": "No module named 'bibtexparser.bibdatabase'",
   "publications": [
-    {
-      "title": "Additional file 6 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma",
-      "year": "2026",
-      "venue": "Figshare",
-      "url": "https://doi.org/10.6084/m9.figshare.33335380.v1",
-      "citations": 0
-    },
     {
       "title": "Additional file 1 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma",
       "year": "2026",
@@ -20,17 +13,10 @@
       "citations": 0
     },
     {
-      "title": "Additional file 27 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma",
+      "title": "Additional file 6 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma",
       "year": "2026",
       "venue": "Figshare",
-      "url": "https://doi.org/10.6084/m9.figshare.33335449.v1",
-      "citations": 0
-    },
-    {
-      "title": "Additional file 24 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma",
-      "year": "2026",
-      "venue": "Figshare",
-      "url": "https://doi.org/10.6084/m9.figshare.33335440.v1",
+      "url": "https://doi.org/10.6084/m9.figshare.33335380",
       "citations": 0
     },
     {
@@ -41,24 +27,52 @@
       "citations": 0
     },
     {
+      "title": "Additional file 16 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma",
+      "year": "2026",
+      "venue": "Figshare",
+      "url": "https://doi.org/10.6084/m9.figshare.33335416",
+      "citations": 0
+    },
+    {
+      "title": "Additional file 19 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma",
+      "year": "2026",
+      "venue": "Figshare",
+      "url": "https://doi.org/10.6084/m9.figshare.33335425",
+      "citations": 0
+    },
+    {
+      "title": "Additional file 7 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma",
+      "year": "2026",
+      "venue": "Figshare",
+      "url": "https://doi.org/10.6084/m9.figshare.33335386",
+      "citations": 0
+    },
+    {
+      "title": "Additional file 17 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma",
+      "year": "2026",
+      "venue": "Figshare",
+      "url": "https://doi.org/10.6084/m9.figshare.33335419",
+      "citations": 0
+    },
+    {
       "title": "Additional file 25 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma",
       "year": "2026",
       "venue": "Figshare",
-      "url": "https://doi.org/10.6084/m9.figshare.33335443.v1",
+      "url": "https://doi.org/10.6084/m9.figshare.33335443",
       "citations": 0
     },
     {
-      "title": "Additional file 21 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma",
+      "title": "Additional file 22 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma",
       "year": "2026",
       "venue": "Figshare",
-      "url": "https://doi.org/10.6084/m9.figshare.33335431.v1",
+      "url": "https://doi.org/10.6084/m9.figshare.33335434",
       "citations": 0
     },
     {
-      "title": "Additional file 8 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma",
+      "title": "Additional file 27 of Tumor-infiltrating B cells evolve towards interferon-rich trajectories aligned with immunotherapy in melanoma",
       "year": "2026",
       "venue": "Figshare",
-      "url": "https://doi.org/10.6084/m9.figshare.33335389.v1",
+      "url": "https://doi.org/10.6084/m9.figshare.33335449",
       "citations": 0
     }
   ]
